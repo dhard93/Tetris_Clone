@@ -1,8 +1,8 @@
-#Tetris Clone
+# Tetris Clone
 
 This is a pixel art tetris clone made using JavaFX.
 
-###Installation Instructions:
+### Installation Instructions:
 
 1. Make sure Java 17+ is installed on your system.
 2.  (OPTIONAL) Add Java to PATH so you can run java commands without having to specify path to your Java installation.
@@ -17,13 +17,13 @@ This is a pixel art tetris clone made using JavaFX.
 7. To run the executable jar, make sure you are in 'Tetris_Clone' directory and then run the following command in terminal/command prompt:
     - java -jar target/Tetris_Clone-1.0-SNAPSHOT-jar-with-dependencies.jar
     
-###Instructions:
-1. ######Menu Controls:
+### Instructions:
+1. ###### Menu Controls:
     - Navigate menu options:
         - UP and DOWN arrows
     - Select menu option:
         - SPACE or ENTER
-2. ######Game Controls:
+2. ###### Game Controls:
     - Move tetromino
         - LEFT and RIGHT arrows
     - Rotate tetromino
@@ -34,7 +34,7 @@ This is a pixel art tetris clone made using JavaFX.
         - UP arrow
     - Play/pause game
         - SPACE or ENTER
-3. ######Rules:
+3. ###### Rules:
     - Clear rows of placed tetromino tiles to increase score.
     - If 4 rows are cleared at once, a TETRIS is rewarded, and one of the letters of TETRIS will appear in top left display window.
     - Get all 6 TETRIS letters to receive a substantial score bonus!
